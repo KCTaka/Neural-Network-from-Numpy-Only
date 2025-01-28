@@ -11,6 +11,7 @@ This project aims to reproduce various modules used in PyTorch to enhance unders
 ## Inspiration
 
 This project is inspired by the YouTube video: https://www.youtube.com/watch?v=w8yWXqWQYmU
+Note that the video explains the process of backpropagation with Numpy while this project extends that knowledge in the form similar to how PyTorch implements backpropagation. 
 
 ## Requirements
 
